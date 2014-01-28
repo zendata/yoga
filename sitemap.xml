@@ -1,0 +1,642 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.google.com/schemas/sitemap/0.84"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.google.com/schemas/sitemap/0.84
+http://www.google.com/schemas/sitemap/0.84/sitemap.xsd">
+<url>
+	<loc>http://www.intertextual.com.au</loc>
+	<priority>1.0</priority>
+	<changefreq>never</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual</loc>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/</loc>
+	<lastmod>2006-04-01T14:25:09+11:00</lastmod>
+	<priority>0.9</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/spacer.gif</loc>
+	<lastmod>2004-06-18T13:17:48+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/logo_intertextual.gif</loc>
+	<lastmod>2004-06-18T13:16:40+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_register.gif</loc>
+	<lastmod>2004-06-18T13:17:41+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_contact.gif</loc>
+	<lastmod>2004-06-18T13:16:51+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_oview_o.gif</loc>
+	<lastmod>2004-06-18T13:17:36+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_about.gif</loc>
+	<lastmod>2004-06-18T13:16:43+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_extra.gif</loc>
+	<lastmod>2004-06-18T13:17:01+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_cf.gif</loc>
+	<lastmod>2004-06-18T13:16:46+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/registration.htm</loc>
+	<lastmod>2004-08-12T16:48:10+10:00</lastmod>
+	<priority>0.7</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/contact.htm</loc>
+	<lastmod>2005-01-17T21:00:20+11:00</lastmod>
+	<priority>0.8</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_compliance.gif</loc>
+	<lastmod>2004-06-18T13:16:48+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/about.htm</loc>
+	<lastmod>2006-04-10T19:10:44+10:00</lastmod>
+	<priority>0.9</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_risk.gif</loc>
+	<lastmod>2004-06-18T13:17:43+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf.htm</loc>
+	<lastmod>2004-07-27T12:27:55+10:00</lastmod>
+	<priority>0.8</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_home.gif</loc>
+	<lastmod>2004-07-27T10:15:06+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/compliance.htm</loc>
+	<lastmod>2004-06-22T15:52:27+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/grey_line.gif</loc>
+	<lastmod>2004-06-18T13:16:34+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_copy.gif</loc>
+	<lastmod>2004-06-18T13:16:54+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_privacy.gif</loc>
+	<lastmod>2004-06-18T13:17:38+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/risk.htm</loc>
+	<lastmod>2004-06-22T15:52:05+10:00</lastmod>
+	<priority>0.7</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_disclaim.gif</loc>
+	<lastmod>2004-06-18T13:16:57+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_register_o.gif</loc>
+	<lastmod>2004-06-18T13:17:42+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/privacy.htm</loc>
+	<lastmod>2005-01-17T21:00:19+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_oview.gif</loc>
+	<lastmod>2004-06-18T13:17:35+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/copyright.htm</loc>
+	<lastmod>2004-06-22T15:52:23+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_contact_o.gif</loc>
+	<lastmod>2004-06-18T13:16:53+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_register.gif</loc>
+	<lastmod>2004-07-27T10:14:10+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_contact.gif</loc>
+	<lastmod>2004-07-27T10:15:10+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_about_o.gif</loc>
+	<lastmod>2004-06-18T13:16:44+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_about.gif</loc>
+	<lastmod>2004-07-27T10:15:13+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/disclaimer.htm</loc>
+	<lastmod>2004-06-22T15:52:21+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/logo_iccmf.gif</loc>
+	<lastmod>2004-06-18T13:16:38+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/index.htm</loc>
+	<lastmod>2006-04-01T14:25:09+11:00</lastmod>
+	<priority>0.9</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/logo_inter_sml.gif</loc>
+	<lastmod>2004-06-18T13:16:41+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_inter.gif</loc>
+	<lastmod>2004-06-18T13:17:16+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_divider.gif</loc>
+	<lastmod>2004-06-18T13:17:00+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_over_o.gif</loc>
+	<lastmod>2004-06-18T13:17:27+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_upfo.gif</loc>
+	<lastmod>2004-06-18T13:17:31+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_pafo.gif</loc>
+	<lastmod>2004-06-18T13:17:28+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_links.gif</loc>
+	<lastmod>2004-06-18T13:17:19+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf/iccmf_registration.cfm</loc>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_login.gif</loc>
+	<lastmod>2004-06-18T13:17:22+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf/iccmf_upcoming.cfm</loc>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_overview.gif</loc>
+	<lastmod>2004-07-27T10:14:40+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_compliance_o.gif</loc>
+	<lastmod>2004-06-18T13:16:50+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf/iccmf_links.htm</loc>
+	<lastmod>2004-07-27T12:31:36+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_compliance.gif</loc>
+	<lastmod>2004-07-27T10:15:12+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf/iccmf_past.htm</loc>
+	<lastmod>2004-07-27T12:31:27+10:00</lastmod>
+	<priority>0.6</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_risk.gif</loc>
+	<lastmod>2004-07-27T10:14:09+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_risk_o.gif</loc>
+	<lastmod>2004-06-18T13:17:45+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_privacy.gif</loc>
+	<lastmod>2004-07-27T10:14:11+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_privacy_o.gif</loc>
+	<lastmod>2004-06-18T13:17:39+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_copyright.gif</loc>
+	<lastmod>2004-07-27T10:15:09+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_copy_o.gif</loc>
+	<lastmod>2004-06-18T13:16:55+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_disclaimer.gif</loc>
+	<lastmod>2004-07-27T10:15:07+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_disclaim_o.gif</loc>
+	<lastmod>2004-06-18T13:16:58+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/iccmf/iccmf_login.htm</loc>
+	<lastmod>2004-07-27T12:31:34+10:00</lastmod>
+	<priority>0.6</priority>
+	<changefreq>always</changefreq>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_over.gif</loc>
+	<lastmod>2004-06-18T13:17:25+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_members.gif</loc>
+	<lastmod>2004-07-27T10:14:41+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_upfo_o.gif</loc>
+	<lastmod>2004-06-18T13:17:32+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_upcoming.gif</loc>
+	<lastmod>2004-07-27T10:14:14+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_links_o.gif</loc>
+	<lastmod>2004-06-18T13:17:21+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_links.gif</loc>
+	<lastmod>2004-07-27T10:14:44+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_pafo_o.gif</loc>
+	<lastmod>2004-06-18T13:17:29+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_past.gif</loc>
+	<lastmod>2004-07-27T10:14:38+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Meeting%20No2..htm</loc>
+	<lastmod>2002-05-04T19:41:35+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Presentation%20Paper%20(Melbourne%2028-05-02).pdf</loc>
+	<lastmod>2002-10-29T14:51:04+11:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Meeting%20No1..htm</loc>
+	<lastmod>2002-05-04T19:41:40+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Meeting%20No4...htm</loc>
+	<lastmod>2002-05-04T19:41:31+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20June%202000..htm</loc>
+	<lastmod>2002-05-04T19:41:45+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%204%20July%202000.htm</loc>
+	<lastmod>2002-05-04T19:42:44+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliuance%20Committee%20Forum%20-%20%20May%202000..htm</loc>
+	<lastmod>2002-05-04T19:42:40+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Minutes%20No3..htm</loc>
+	<lastmod>2002-05-04T19:42:55+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Minutes%20Feb%202000.htm</loc>
+	<lastmod>2002-05-04T19:41:26+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20Oct%202000.htm</loc>
+	<lastmod>2002-05-04T19:44:48+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20-%20December.htm</loc>
+	<lastmod>2002-05-04T19:44:15+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20Feb%202001.htm</loc>
+	<lastmod>2002-05-04T19:44:10+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20March%202002.htm</loc>
+	<lastmod>2003-07-28T17:36:40+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/FSR070302.pdf</loc>
+	<lastmod>2002-10-29T14:52:33+11:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Sept%202000..htm</loc>
+	<lastmod>2002-05-04T19:42:50+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20November.htm</loc>
+	<lastmod>2002-05-04T19:43:54+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ComplianceOct.pdf</loc>
+	<lastmod>2003-07-28T17:38:20+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%2029%20October%202001.htm</loc>
+	<lastmod>2002-05-04T19:44:36+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20May%202002.htm</loc>
+	<lastmod>2002-10-29T14:58:59+11:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/April%202001%20-%20Melb.htm</loc>
+	<lastmod>2002-05-04T19:45:11+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20March%202001.htm</loc>
+	<lastmod>2002-05-04T19:43:59+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Survey3.ppt</loc>
+	<lastmod>2003-07-28T17:37:45+10:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%2017%20May%202000.htm</loc>
+	<lastmod>2002-05-04T19:42:29+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/May%202001%20-%20Melb.htm</loc>
+	<lastmod>2002-05-04T19:44:58+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%20%20October%202000-10.htm</loc>
+	<lastmod>2002-05-04T19:43:46+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%202001-02.htm</loc>
+	<lastmod>2002-05-04T19:44:27+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%2018%20April%202000.htm</loc>
+	<lastmod>2002-05-04T19:42:23+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%20Syd%20May%202002.htm</loc>
+	<lastmod>2002-10-29T14:58:52+11:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%20November%202000-11.htm</loc>
+	<lastmod>2002-05-04T19:44:21+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%20August%202000..htm</loc>
+	<lastmod>2002-05-04T19:42:17+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/nav_i_login_o.gif</loc>
+	<lastmod>2004-06-18T13:17:24+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%20June%202000.htm</loc>
+	<lastmod>2002-05-04T19:42:10+10:00</lastmod>
+	<priority>0.6</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/images/head_iccmf_login.gif</loc>
+	<lastmod>2004-07-27T10:14:43+10:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002.htm</loc>
+	<lastmod>2002-10-29T14:58:47+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20June%202000._files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:31:30+10:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%2025%20November%202002.htm</loc>
+	<lastmod>2003-02-10T21:38:09+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20Oct%202000_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:29:23+10:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20-%20December_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:30:15+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Minutes%20Feb%202000_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:31:05+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20November_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:29:50+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20Sept%202000._files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:30:39+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20August%202000..htm</loc>
+	<lastmod>2002-05-04T19:42:04+10:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%2017%20May%202000_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:28:37+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%20%20October%202000-10_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:33:37+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%202001-02_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:33:11+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%2018%20April%202000_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:28:11+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/ICCMF%20Notes%20Syd%20November%202000-11_files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:32:45+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image002.gif</loc>
+	<lastmod>2002-10-29T14:42:23+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20minutes%20-%20February%202003.htm</loc>
+	<lastmod>2003-07-28T17:41:26+10:00</lastmod>
+	<priority>0.5</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image004.gif</loc>
+	<lastmod>2002-10-29T14:42:16+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image006.gif</loc>
+	<lastmod>2002-10-29T14:42:10+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%20August%202000._files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:27:46+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/filelist.xml</loc>
+	<lastmod>2002-10-29T14:42:31+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image008.gif</loc>
+	<lastmod>2002-10-29T14:42:04+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image010.gif</loc>
+	<lastmod>2002-10-29T14:43:14+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Sydney%20ICCMF%20Notes%20October%202002.htm</loc>
+	<lastmod>2003-02-10T21:37:19+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image012.gif</loc>
+	<lastmod>2002-10-29T14:43:07+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image014.gif</loc>
+	<lastmod>2002-10-29T14:43:00+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image016.gif</loc>
+	<lastmod>2002-10-29T14:42:53+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image018.gif</loc>
+	<lastmod>2002-10-29T14:42:47+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image020.gif</loc>
+	<lastmod>2002-10-29T14:42:41+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image022.gif</loc>
+	<lastmod>2002-10-29T14:42:35+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image024.gif</loc>
+	<lastmod>2002-10-29T14:47:05+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image026.gif</loc>
+	<lastmod>2002-10-29T14:46:58+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image028.gif</loc>
+	<lastmod>2002-10-29T14:46:52+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image030.gif</loc>
+	<lastmod>2002-10-29T14:46:44+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image032.gif</loc>
+	<lastmod>2002-10-29T14:46:37+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image034.gif</loc>
+	<lastmod>2002-10-29T14:46:31+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image036.gif</loc>
+	<lastmod>2002-10-29T14:47:45+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image038.gif</loc>
+	<lastmod>2002-10-29T14:47:33+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image040.gif</loc>
+	<lastmod>2002-10-29T14:47:27+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image042.gif</loc>
+	<lastmod>2002-10-29T14:47:21+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%20July%202002_files/image044.gif</loc>
+	<lastmod>2002-10-29T14:50:09+11:00</lastmod>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Melbourne%20Minutes%2025%20November%202002_files/filelist.xml</loc>
+	<lastmod>2003-02-10T21:38:09+11:00</lastmod>
+	<priority>0.4</priority>
+</url>
+<url>
+	<loc>http://www.intertextual.com.au/Intertextual/ICCF/Independent%20Compliance%20Committee%20Forum%20-%20August%202000._files/filelist.xml</loc>
+	<lastmod>2002-05-04T19:32:20+10:00</lastmod>
+	<priority>0.4</priority>
+</url>
+</urlset>
